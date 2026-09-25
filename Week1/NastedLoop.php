@@ -15,6 +15,5 @@ for ( $i = 1 ; $i<= 3 ; $i++)
         echo( " row $i , Column $j = " . result is ($i * $j) . "<br>");
 ?>
 
-
 </body>
 </html>
