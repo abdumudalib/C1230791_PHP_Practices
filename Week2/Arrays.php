@@ -35,8 +35,6 @@ $collection []=  " CA2313 ";
 
 // //  adding item of array / Replace
 
-
-
 // example of associative array
 
 $info = array(
